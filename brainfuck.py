@@ -17,8 +17,7 @@ def fukkkk(code, inp=""):
         elif c == "[" and mem[ptr] == 0: i = loop[i]
         elif c == "]" and mem[ptr] != 0: i = loop[i]
         i += 1
-
     return op
-    
-a=input("Enter code - ")
-print(fukkkk(a))
+
+# a=input("Enter code - ")
+# print(fukkkk(a))
