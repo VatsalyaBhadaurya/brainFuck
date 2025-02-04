@@ -8,11 +8,11 @@ A minimalistic Brainfuck interpreter written in Python. planning to personalize 
 - Simple and lightweight (under 20 lines of code)
 - Works with both input and output
 
+## Contributing 🤝
+Feel free to fork the repo and submit a pull request with improvements!
+
 ## Installation 🛠️
 Clone the repository:
 ```bash
 git clone https://github.com/VatsalyaBhadaurya/brainFuck.git
 cd brainFuck
-
-Contributing 🤝
-Feel free to fork the repo and submit a pull request with improvements!
