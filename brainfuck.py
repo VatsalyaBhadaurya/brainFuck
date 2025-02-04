@@ -19,5 +19,6 @@ def fukkkk(code, inp=""):
         i += 1
 
     return op
-
-print(fukkkk("++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++.>+.+++++++..+++.<<+++."))
+    
+a=input("Enter code - ")
+print(fukkkk(a))
